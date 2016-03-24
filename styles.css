@@ -1,0 +1,239 @@
+.top-section{
+	margin-top: 50px;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 140%;
+	
+}
+
+.welcome{
+	float: right;
+	margin-right: 300px;
+	font-weight: bold;
+	
+}
+.images{
+	height: 900px;
+	width: 100%;
+	margin-left: 20%;
+	margin-right: 20%;	
+	margin-top: 100px;
+	position: absolute;
+	text-align: center;
+			
+}
+
+
+
+.wikipedia{
+	background: url('img/enwiki-1.5x.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikitionary{
+	background: url('img/135px-WiktionaryEn.svg.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikiquote{
+	background: url('img/wikiquote.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikibooks{
+	background: url('img/wikibooks.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikisource{
+	background: url('img/wikisource.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+
+}
+
+.wikinews{
+	background: url('img/Wiki.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikiversity{
+	background: url('img/enwikiversity (1).png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikispecies{
+	background: url('img/specieswiki.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.mediawiki{
+	background: url('img/mediawikiwiki.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikidata{
+	background: url('img/wikidatawiki.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;;
+}
+
+.wikimedia-commons{
+	background: url('img/commonswiki.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikivoyage{
+	background: url('img/wikivoyage.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikimedia-metawiki{
+	background: url('img/metawiki.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikimedia-incubator{
+	background: url('img/incubatorwiki.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.wikimedia-labs{
+	background: url('img/Labslogo_thumb.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+	
+}
+
+.wikimedia-foundation{
+	background: url('img/foundationwiki.png') center no-repeat;
+	height: 150px;
+	width: 135px;
+	display: inline-block;
+	background-size: cover;
+	margin-right: 125px;
+	padding-top: 50px;
+	margin-top: 50px;
+	float: left;
+}
+
+.footer{
+	border-top-width: 1px;
+	border-style: solid;
+	border-color: gray;
+	position: absolute;
+	bottom: -500px;
+	text-align: center;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.footer-text{
+	margin-top: 20px;
+}
+
+#tab{
+	margin-left: 40px
+}
